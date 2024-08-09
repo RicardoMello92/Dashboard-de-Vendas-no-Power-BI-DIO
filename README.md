@@ -1,1 +1,1 @@
-# Dashboard utilizando Financial Samples disponível no Power BI
+# Financial Samples Report with Power BI
